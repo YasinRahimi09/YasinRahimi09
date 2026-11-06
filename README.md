@@ -1,5 +1,6 @@
 ## Hi there 👋
-im Yasin 
+im Yasin      
+ i know HTML , CSS , PHP , C# , JS 
 <!--
 **YasinRahimi09/YasinRahimi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
